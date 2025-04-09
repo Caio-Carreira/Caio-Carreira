@@ -49,3 +49,5 @@ App em **Streamlit** para controle de despesas de viagens, ideal para organizar 
 ---
 
 > “Disciplina é liberdade. Autoconhecimento é poder. Superação é o caminho.” 🔥
+
+Lince.
