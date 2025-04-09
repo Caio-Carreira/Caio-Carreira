@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Caio Carreira 👊😎</h1>
+<h1 align="center">Olá, eu sou Caio Carreira 👊😎</h1>
 
 <p align="center">
   Engenheiro mecânico, programador de A&V, apaixonado por tecnologia, automação e evolução pessoal.
