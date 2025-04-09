@@ -20,7 +20,8 @@
 
 ### [💰 CalculadoraTrip](https://calculadoratrip.streamlit.app/)
 App em **Streamlit** para controle de despesas de viagens, ideal para organizar os custos em projetos técnicos.
-🔧 Tecnologias: `Python`, `Streamlit`, `Git`, `GitHub`
+
+- 🔧 Tecnologias: `Python`, `Streamlit`, `Git`, `GitHub`
 
 ---
 
