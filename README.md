@@ -26,10 +26,11 @@ App em **Streamlit** para controle de despesas de viagens, ideal para organizar 
 
 ## 📚 Estudando agora
 
-- Python avançado (OOP, APIs, automações)
 - UX/UI Design
 - Q-Sys and Cretron Trainning
-- Git e GitHub para versionamento e colaboração
+- Python
+- Git e GitHub
+- Lua / C#
 
 ---
 
