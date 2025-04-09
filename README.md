@@ -13,7 +13,7 @@
 - 🔌 Programador Pleno de sistemas A&V (Crestron, Q-SYS, Biamp, Redes, entre outros)
 - 🧠 Viciado em resolver problemas e automatizar tudo.
 - 🥋 Disciplina em alta: pratico boxe, treino, leio muito e me desenvolvo todos os dias.
-- 🎹 Músico e tecladista da banda [Sattivus](https://open.spotify.com/artist/5g7AgWQWq4NMGYH16K8i4N)
+- 🎹 Musico e Produtor da [Sattivus](https://open.spotify.com/intl-pt/artist/3dVC50y58hgXFG6EI34Wpa)
 
 ---
 
