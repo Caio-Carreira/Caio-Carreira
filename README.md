@@ -9,10 +9,11 @@
 
 ## 👨‍💻 Quem sou eu
 
-- 🎓 Engenheiro mecânico e Técnico em mecatrônica
+- 🎓 Engenheiro mecânico
 - 🔌 Programador Pleno de sistemas A&V (Crestron, Q-SYS, Biamp, Redes, entre outros)
-- 🧠 Viciado em resolver problemas e automatizar tudo.
-- 🥋 Disciplina em alta: pratico boxe, treino, leio muito e me desenvolvo todos os dias.
+- 🧠 Técnico em mecatrônica viciado em resolver problemas e automatizar tudo.
+- 🥋 Disciplina em alta: Boxe, Futebol, Dieta, treino.
+- 📚 LeiO muito e estudo muito todos os dias.
 
 ---
 
