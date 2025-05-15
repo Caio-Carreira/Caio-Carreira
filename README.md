@@ -2,22 +2,24 @@
 <h1 align="center">Olá, eu sou Caio Carreira 👊😎</h1>
 
 <p align="center">
-  Engenheiro mecânico, programador de A&V, apaixonado por tecnologia, automação e evolução pessoal.
+  Engenheiro mecânico, programador de Áudio e Vídeo, apaixonado por tecnologia, automação e evolução pessoal.
 </p>
 
 ---
 
 ## 👨‍💻 Quem sou eu
 
-- 🎓 Engenheiro mecânico
-- 🔌 Programador Pleno de sistemas A&V (Crestron, Q-SYS, Biamp, Redes, entre outros)
-- 🧠 Técnico em mecatrônica viciado em resolver problemas e automatizar tudo.
-- 🥋 Disciplina em alta: Boxe, Futebol, Dieta, treino.
-- 📚 LeiO muito e estudo muito todos os dias.
+- 🎓 Engenheiro Mecânico.
+- 🧠 Técnico em Mecatrônica.
+- 🔌 Programador de Áudio e Vídeo
+- 🥋 Disciplina e Foco.
+- 📚 Leitura e Estudo diário.
 
 ---
 
 ## 🚀 Projetos em andamento
+
+
 
 ### [💰 CalculadoraTrip](https://calculadoratrip.streamlit.app/)
 App em **Streamlit** para controle de despesas de viagens, ideal para organizar os custos em projetos técnicos.
@@ -38,7 +40,7 @@ App em **Streamlit** para controle de despesas de viagens, ideal para organizar 
 
 ## 🎯 Missão
 
- Quero inspirar outras pessoas a buscar disciplina, saúde física e mental, e crescimento contínuo.
+Inspirar outras pessoas a buscar disciplina, saúde física e mental, e crescimento contínuo.
 
 ---
 
