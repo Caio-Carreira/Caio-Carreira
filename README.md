@@ -15,10 +15,12 @@
 - 📚 Leitura e Estudo diário  
 
 ---
->
 
+Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-carreira/)
+
+[![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-0033B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/caio_carreira)
 
 
 
@@ -54,6 +56,7 @@ Jogo educativo para crianças aprenderem lógica, ângulos e programação com T
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 - ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+- ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ---
 
