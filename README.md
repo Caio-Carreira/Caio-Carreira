@@ -15,6 +15,12 @@
 - 📚 Leitura e Estudo diário  
 
 ---
+>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-carreira/)
+
+
 
 ## 🚀 Projetos em andamento
 
@@ -38,10 +44,16 @@ Jogo educativo para crianças aprenderem lógica, ângulos e programação com T
 ## 📚 Estudando agora
 
 - UX/UI Design  
-- Q-Sys e Crestron Training  
-- Python  
-- Git e GitHub  
-- Lua / C#  
+- Q-Sys e Crestron.
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+- ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ---
 
@@ -49,14 +61,7 @@ Jogo educativo para crianças aprenderem lógica, ângulos e programação com T
 
 Inspirar outras pessoas a buscar disciplina, saúde física e mental, e crescimento contínuo.
 
----
-
-## 📫 Contato
-
-- 📧 Email: caio.carreira@live.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/caio-carreira/)  
-
----
 
 > “Disciplina é liberdade. Autoconhecimento é poder. Superação é o caminho.” 🔥  
+
 > **Lince.**
