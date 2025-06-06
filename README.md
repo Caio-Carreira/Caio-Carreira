@@ -68,3 +68,6 @@ Inspirar outras pessoas a buscar disciplina, saúde física e mental, e crescime
 > “Disciplina é liberdade. Autoconhecimento é poder. Superação é o caminho.” 🔥  
 
 > **Lince.**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Carreira&theme=chartreuse-dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caio-Carreira&theme=chartreuse-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
