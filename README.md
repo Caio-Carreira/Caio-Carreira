@@ -31,12 +31,12 @@ App em **Streamlit** para controle de despesas de viagens, ideal para organizar 
 
 - 🔧 Tecnologias: `Python`, `Streamlit`, `Git`, `GitHub`
 
-### [🔳 Gerador de QR Code](https://github.com/caiocarreira/qr-code-generator)
+### [🔳 Gerador de QR Code](https://github.com/Caio-Carreira/qrcodegenerator)
 Ferramenta para gerar QR Codes a partir de links ou textos, com opção de download automático.
 
 - 🔧 Tecnologias: `Python`, `Streamlit`, `qrcode`, `PIL`
 
-### [🐢 Jogo da Tartaruga - Lince Games](https://github.com/caiocarreira/turtle-game)
+### [🐢 Jogo da Tartaruga - Lince Games](https://github.com/Caio-Carreira/TurtleGame)
 Jogo educativo para crianças aprenderem lógica, ângulos e programação com Turtle em Python.
 
 - 🎮 Tecnologias: `Python`, `Tkinter`, `Turtle`, `UX/UI para crianças`
